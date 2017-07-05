@@ -63,7 +63,7 @@ git clone https://github.com/venantius/vim-cljfmt.git
 
 To install vim-cljfmt with [Vundle](https://github.com/gmarik/Vundle.vim), add the following line to your `.vimrc`:
 ```
-Bundle 'venantius/vim-cljfmt'
+Bundle 'michaelblume/vim-cljfmt'
 ```
 
 ## Other Vim + Clojure Plugins
